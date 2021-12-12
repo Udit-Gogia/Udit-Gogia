@@ -1,7 +1,7 @@
 ### Hey! I'm Udit Gogia 👋
 
-🔭 I’m currently working on My Portfolio
-🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on My Portfolio
+- 🌱 I’m currently learning Javascript
 
 <!--
 **Udit-Gogia/Udit-Gogia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
