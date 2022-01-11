@@ -1,7 +1,7 @@
 ### Hey! I'm Udit Gogia 👋
 
 - 🔭 I’m currently working on My Portfolio
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript Frameworks
 - 🤔 I’m looking for help with JS Frameworks
 
 <!--
