@@ -1,6 +1,6 @@
 ### Hey! I'm Udit Gogia 👋
 
-- 🔭 I’m currently working on My Portfolio
+- 🔭 I’m currently working on API Projects
 - 🌱 I’m currently learning Javascript Frameworks
 - 🤔 I’m looking for help with JS Frameworks
 
