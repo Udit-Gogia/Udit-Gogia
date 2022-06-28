@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/udit-gogia" target="blank"><img align="center" src="https://img.icons8.com/stickers/48/000000/linkedin.png" alt="udit-gogia" /></a>
 <a href="https://instagram.com/udit_gogia" target="blank"><img align="center" src="https://img.icons8.com/stickers/48/000000/instagram-new--v2.png" alt="udit_gogia" /></a>
-<a href="https://instagram.com/udit_gogia" target="blank"><img align="center" src="https://img.icons8.com/stickers/48/000000/gmail-new.png" alt="udit_gogia" /></a>  
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=gogiaudit17@gmail.com&tf=cm" target="blank"><img align="center" src="https://img.icons8.com/stickers/48/000000/gmail-new.png" alt="udit_gogia" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
