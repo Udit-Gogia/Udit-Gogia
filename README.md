@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Udit Gogia</h1>
 <h3 align="center">A passionate Frontend Web Developer</h3>
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **Backend Projects**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS , ExpressJS**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **Backend Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
