@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Udit Gogia</h1>
-<h3 align="center">A passionate Frontend Web Developer</h3>
+<h1 align="center">Hi 👋
+ I'm Udit Gogia</h1>
+<h3 align="center">An Aspiring FullStack Web Developer</h3>
 
 - 🔭 I’m currently working on **Backend Projects**
 
@@ -25,10 +26,12 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50"/> </a>   
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> </p>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udit-gogia&show_icons=true&locale=en&layout=compact" alt="udit-gogia" width="400" height="200"/></p>
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-Gogia&layout=compact&theme=radical" alt="udit-gogia" width="400" height="200"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udit-gogia&show_icons=true&locale=en" alt="udit-gogia" width="400" height="200"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Udit-Gogia&show_icons=true&theme=radical" alt="udit-gogia" width="475" height="200"/></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=udit-gogia&" alt="udit-gogia" width="400" height="200"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=udit-gogia&theme=radical" alt="udit-gogia" width="450" height="200"/></p>
