@@ -32,6 +32,6 @@
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udit-Gogia&layout=compact&theme=radical" alt="udit-gogia" width="400" height="200"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Udit-Gogia&show_icons=true&theme=radical" alt="udit-gogia" width="475" height="200"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Udit-Gogia&show_icons=true&theme=radical" alt="udit-gogia" width="420" height="200"/></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=udit-gogia&theme=radical" alt="udit-gogia" width="450" height="200"/></p>
