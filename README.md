@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋
  I'm Udit Gogia</h1>
-<h3 align="center">An Aspiring FullStack Web Developer</h3>
+<h3 align="center">An Aspiring MERN stack Web Developer</h3>
 
 - 🔭 I’m currently working on **Backend Projects**
 
